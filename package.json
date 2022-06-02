@@ -9,7 +9,7 @@
     "zone.js": "~0.9.1",
     "@ngrx/store": "^8.2.0",
     "@ngrx/entity": "^8.2.0",
-    "@angular/core": "^8.2.0",
+    "@angular/core": "^11.0.5",
     "@ngrx/effects": "^8.2.0",
     "@angular/forms": "^8.2.0",
     "@angular/common": "^8.2.0",
